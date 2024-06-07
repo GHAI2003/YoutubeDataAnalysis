@@ -1,0 +1,5 @@
+
+Sure, here's a concise README paragraph for your project:
+
+This project aims to identify top-performing Canadian YouTubers for 2024 to enhance marketing collaborations. The dashboard addresses the challenges faced by Mohinder, the Head of Marketing, in finding suitable channels due to complex and conflicting information, costly third-party providers, and limited BI team bandwidth. It serves both Mohinder and the marketing team by listing YouTube channels based on Followers, Potential Unique views, and engagement, recommending channels for various campaign types, and providing data-driven justifications. Key metrics include followers, potential viewers, and engagement ratios, with data quality ensured through row, column, type, and duplicate checks. The solution is documented comprehensively, including data sources and transformation processes, and is available on GitHub. References include datasets and resources from Kaggle, Strike Social, w3schools, TechTarget, and YouTube tutorials.
+
